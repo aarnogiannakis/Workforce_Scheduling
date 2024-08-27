@@ -18,3 +18,7 @@ Formulate an integer linear programming (ILP) model to find the optimal staff-to
 ### Part B: Minimizing Overcoverage
 
 The initial model only ensures that the demand is met but does not address the issue of "over-coverage," where more operators are scheduled than needed in a given hour. In this part, you will revise the formulation to minimize the maximum overcoverage in any hour `t`, while ensuring that the optimal objective value from Part A does not worsen. This involves introducing new decision variables, parameters, and constraints to handle overcoverage. 
+
+### Bonus Part: A personal touch
+
+Explores the case when we don't have precise data.
