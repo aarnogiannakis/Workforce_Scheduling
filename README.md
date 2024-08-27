@@ -1,6 +1,6 @@
 ## Problem Description
 
-*This problem is inspired by the 2023 exam for the course 42112 Mathematical Programming Modelling, taught by Professors Thomas Jacob Riis Stidsen and Richard Martin Lusby.*
+*This problem is inspired by the 2023 exam for the course 42112 Mathematical Programming Modelling, taught by Professors Thomas Jacob Riis Stidsen and Richard Martin Lusby in DTU.*
 
 You are responsible for organizing the staff schedule at a busy call center that operates 24/7. The demand for operators varies throughout the day, with certain hours being busier than others. Your task is to assign operators to shifts in a way that ensures sufficient coverage at all times while minimizing the associated costs. The shifts can be either long (8 hours) or short (3 hours).
 
