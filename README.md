@@ -21,4 +21,4 @@ The initial model only ensures that the demand is met but does not address the i
 
 ### Bonus Part: A personal touch
 
-Explores the case when we don't have precise data.
+Explores the scenario where precise data is unavailable.
