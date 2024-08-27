@@ -13,8 +13,8 @@ Each shift `s` incurs a cost of `c_s` DKK per operator, along with a fixed admin
 
 ### Part A: Minimum Cost Staff-to-Shift Allocation
 
-In Part A, you are required to formulate an integer linear programming (ILP) model to find the optimal staff-to-shift allocation plan that minimizes the total cost. The model should clearly define the decision variables, objective function, and constraints. 
+Formulate an integer linear programming (ILP) model to find the optimal staff-to-shift allocation plan that minimizes the total cost. The model should clearly define the decision variables, objective function, and constraints. 
 
 ### Part B: Minimizing Overcoverage
 
-In Part B, you will refine the model developed in Part A. The initial model only ensures that the demand is met but does not address the issue of "over-coverage," where more operators are scheduled than needed in a given hour. In this part, you will revise the formulation to minimize the maximum overcoverage in any hour `t`, while ensuring that the optimal objective value from Part A does not worsen. This involves introducing new decision variables, parameters, and constraints to handle overcoverage. 
+The initial model only ensures that the demand is met but does not address the issue of "over-coverage," where more operators are scheduled than needed in a given hour. In this part, you will revise the formulation to minimize the maximum overcoverage in any hour `t`, while ensuring that the optimal objective value from Part A does not worsen. This involves introducing new decision variables, parameters, and constraints to handle overcoverage. 
